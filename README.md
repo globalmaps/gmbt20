@@ -10,3 +10,13 @@ Credit: "Global Map of Bhutan © ISCGM/ Royal Government of Bhutan - National La
 Contact: National Land Commission Secretariat 
 
 E-mail address : ![email](https://www.iscgm.org/gmd/images/email/bhutan.png)
+
+## metadata
+This Data was developed based on Global Map Specifications version 2.2. 
+
+The data source was downloaded from Bhutan Geospecial Portal.
+
+These data is delineated from Topographic maps mostly using the natural features for administrative purposes in 2013.
+
+And also it contains the road network of Bhutan picked up by using DGPS in 2006 and from field survey using total station.
+
