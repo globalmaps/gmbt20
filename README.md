@@ -1,4 +1,4 @@
-# gmbt10: Global Map Bhutan 2.0
+# gmbt20: Global Map Bhutan 2.0
 ## non-commercial use
 ![attribution](https://globalmaps.github.io/globalmaps/attribution.png)
 ## commercial use
