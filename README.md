@@ -9,7 +9,7 @@ Credit: "Global Map of Bhutan © ISCGM/ Royal Government of Bhutan - National La
 
 Contact: National Land Commission Secretariat 
 
-E-mail address : ![email](https://www.iscgm.org/gmd/images/email/bhutan.png)
+E-mail address : ![email](email.png)
 
 ## metadata
 This Data was developed based on Global Map Specifications version 2.2. 
